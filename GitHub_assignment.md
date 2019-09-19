@@ -4,4 +4,4 @@
 
 3) The neurocognitive effects of alcohol on adolescents and college students.
 
-![Alt text](/EnrikosIossifidis/CS_Assignment/scatter.png?raw=true "Scatterplot # students and beer consumption")
+![alt text](https://enrikosiossifidis.github.io/cs_assignment/scatter.PNG)
